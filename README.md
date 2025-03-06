@@ -19,4 +19,6 @@ The Automated Report Generation project simplifies the process of creating struc
 
 OUTPUT:-
 
+[report.pdf](https://github.com/user-attachments/files/19110006/report.pdf)
+
 
